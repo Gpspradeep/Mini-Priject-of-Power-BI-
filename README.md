@@ -118,27 +118,27 @@ The dashboard follows a **Star Schema Architecture** for optimized performance a
 <img width="2272" height="1273" alt="image" src="https://github.com/user-attachments/assets/d91eef9a-dc6c-440b-9bca-c4b7b6b75019" />
 
 
-### * Bike Availability Trend Analysis *(Line Chart)*
+### Bike Availability Trend Analysis *(Line Chart)*
 
 Analyzes bike availability trends across reporting periods and identifies operational fluctuations and peak availability periods.
 
-### * Station Status Distribution *(Donut Chart)*
+### Station Status Distribution *(Donut Chart)*
 
 Compares open and closed station percentages to evaluate operational coverage and station performance.
 
-### * Quarterly Bike Availability Analysis *(Area Chart)*
+### Quarterly Bike Availability Analysis *(Area Chart)*
 
 Tracks quarterly changes in bike availability and operational growth patterns.
 
-### * Bike Stand Capacity Analysis *(Horizontal Bar Chart)*
+### Bike Stand Capacity Analysis *(Horizontal Bar Chart)*
 
 Identifies stations with the highest stand capacity and infrastructure utilization.
 
-### * City-wise Bike Availability *(Clustered Column Chart)*
+### City-wise Bike Availability *(Clustered Column Chart)*
 
 Compares bike availability performance across cities and identifies top-performing operational regions.
 
-### * Operational Efficiency Monitoring *(Gauge Chart)*
+### Operational Efficiency Monitoring *(Gauge Chart)*
 
 Measures bike availability efficiency and overall operational utilization performance.
 
